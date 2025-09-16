@@ -131,7 +131,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{ACHIEVE2026,
   title={ACHIEVE: Dual-Mode Illumination-Aware Perception Framework in Unevenly Illuminated Environments},
-  author={Your Name and Others},
+  author={xxx, xxx, xxx, xxx, et al},
   booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
   year={2026}
 }
