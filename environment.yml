@@ -1,0 +1,11 @@
+name: achieve
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pytorch
+  - numpy
+  - opencv
+  - scipy
+  - matplotlib
