@@ -1,6 +1,6 @@
-# ACHIEVE: Dual-Mode Illumination-Aware Visual SLAM
+# ACHIEVE: Dual-Mode Illumination-Aware Perception Framework in Unevenly Illuminated Environments
 
-[![Conference](https://img.shields.io/badge/ICRA-2025-blue)]()
+[![Conference](https://img.shields.io/badge/ICRA-2026-blue)]()
 [![Platform](https://img.shields.io/badge/UAV-Embedded-green)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 
@@ -54,7 +54,7 @@ ACHIEVE/
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/ACHIEVE.git
+git clone https://github.com/qingyuhai/ACHIEVE.git
 cd ACHIEVE
 conda create -n achieve python=3.8
 conda activate achieve
@@ -129,11 +129,11 @@ We report:
 ## 📌 Citation
 If you use this work, please cite:
 ```bibtex
-@inproceedings{ACHIEVE2025,
-  title={ACHIEVE: Dual-Mode Illumination-Aware Visual SLAM in Unevenly Illuminated Environments},
+@inproceedings{ACHIEVE2026,
+  title={ACHIEVE: Dual-Mode Illumination-Aware Perception Framework in Unevenly Illuminated Environments},
   author={Your Name and Others},
   booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2025}
+  year={2026}
 }
 ```
 
